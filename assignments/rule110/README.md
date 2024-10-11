@@ -7,26 +7,26 @@ The Rule 110 automaton is an elementary cellular automaton, where a one-dimensio
 The Rule 110 automaton has the following set of rules:
 <table>
     <tr>
-        <th>Current pattern</th>
-        <th style="text-align:center">111</th>
-        <th style="text-align:center">110</th>
-        <th style="text-align:center">101</th>
-        <th style="text-align:center">100</th>
-        <th style="text-align:center">011</th>
-        <th style="text-align:center">010</th>
-        <th style="text-align:center">001</th>
-        <th style="text-align:center">000</th>
+        <th style="text-align:left;">Current pattern</th>
+        <th style="text-align:center;">111</th>
+        <th style="text-align:center;">110</th>
+        <th style="text-align:center;">101</th>
+        <th style="text-align:center;">100</th>
+        <th style="text-align:center;">011</th>
+        <th style="text-align:center;">010</th>
+        <th style="text-align:center;">001</th>
+        <th style="text-align:center;">000</th>
     </tr>
     <tr>
-        <th>New state for center cell</th>
-        <td style="text-align:center">0</td>
-        <td style="text-align:center">1</td>
-        <td style="text-align:center">1</td>
-        <td style="text-align:center">0</td>
-        <td style="text-align:center">1</td>
-        <td style="text-align:center">1</td>
-        <td style="text-align:center">1</td>
-        <td style="text-align:center">0</td>
+        <th style="text-align:left;">New state for center cell</th>
+        <td style="text-align:center;">0</td>
+        <td style="text-align:center;">1</td>
+        <td style="text-align:center;">1</td>
+        <td style="text-align:center;">0</td>
+        <td style="text-align:center;">1</td>
+        <td style="text-align:center;">1</td>
+        <td style="text-align:center;">1</td>
+        <td style="text-align:center;">0</td>
     </tr>
 </table>
 
@@ -55,7 +55,7 @@ IF(AND(J3=$D$8;K3=$E$8;L3=$F$8);$G$8;
 IF(AND(J3=$D$9;K3=$E$9;L3=$F$9);$G$9;
 IF(AND(J3=$D$10;K3=$E$10;L3=$F$10);$G$10;
 IF(AND(J3=$D$11;K3=$E$11;L3=$F$11);$G$11;
-"hello"))))))))
+"none"))))))))
 ```
 The formula is a simple chain of IF-ELSE conditions, one for each rule.
 
