@@ -7,26 +7,26 @@ The Rule 110 automaton is an elementary cellular automaton, where a one-dimensio
 The Rule 110 automaton has the following set of rules:
 <table>
     <tr>
-        <th style="text-align:left;">Current pattern</th>
-        <th style="text-align:center;">111</th>
-        <th style="text-align:center;">110</th>
-        <th style="text-align:center;">101</th>
-        <th style="text-align:center;">100</th>
-        <th style="text-align:center;">011</th>
-        <th style="text-align:center;">010</th>
-        <th style="text-align:center;">001</th>
-        <th style="text-align:center;">000</th>
+        <th>Current pattern</th>
+        <th>111</th>
+        <th>110</th>
+        <th>101</th>
+        <th>100</th>
+        <th>011</th>
+        <th>010</th>
+        <th>001</th>
+        <th>000</th>
     </tr>
     <tr>
-        <th style="text-align:left;">New state for center cell</th>
-        <td style="text-align:center;">0</td>
-        <td style="text-align:center;">1</td>
-        <td style="text-align:center;">1</td>
-        <td style="text-align:center;">0</td>
-        <td style="text-align:center;">1</td>
-        <td style="text-align:center;">1</td>
-        <td style="text-align:center;">1</td>
-        <td style="text-align:center;">0</td>
+        <th>New state for center cell</th>
+        <td>0</td>
+        <td>1</td>
+        <td>1</td>
+        <td>0</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1</td>
+        <td>0</td>
     </tr>
 </table>
 
