@@ -1,4 +1,4 @@
-# Three-dimensional Table (Ideas)
+# Brainstorming
 
 ## Overview
 Since we are modeling an agent-based simulation, the model is a three-dimensional structure, where:
