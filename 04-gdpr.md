@@ -1,5 +1,4 @@
 # Questionnaire GDPR
-
 1. Data Minimisation
     - the amount of personal data collected must be generally minimised
     - the data must be adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed
