@@ -414,7 +414,7 @@ The dimension of agent properties is not visible, however, it can be stored as a
 
 ### The Time-Property view
 The Time-Property view is perhaps the least useful view. \
-In this view, we see the time progression, we see the individual agents' properties, however, they are encoded as a list of agents (for instance indexed by the agent's ID). \
+In this view, we see the time progression, we see the individual agents' properties, however, they are encoded as a list of agents (for instance indexed by the agent's ID).
 
 <table>
     <thead>
