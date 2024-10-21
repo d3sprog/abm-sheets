@@ -1,6 +1,6 @@
 # Questionnaire
 
-[Google Forms survey link](https://docs.google.com/forms/d/e/1FAIpQLSdf7QzKK17n4N3dx1F6baFbvgaOERrCtFm4b4qEb0kVJNd1-g/viewform?usp=sf_link).
+Visit [this link](https://docs.google.com/forms/d/e/1FAIpQLSdf7QzKK17n4N3dx1F6baFbvgaOERrCtFm4b4qEb0kVJNd1-g/viewform?usp=sf_link) for the Google Forms survey.
 
 ## 1. Demographics
 
