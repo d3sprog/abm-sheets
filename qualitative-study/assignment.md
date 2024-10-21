@@ -1,5 +1,8 @@
 # ABM Sheets User Study
 
+**Author**: Bc. Tomáš Boďa \
+**Supervisor**: Mgr. Tomáš Petříček, Ph.D.
+
 ABM Sheets is a research project that aims to create a new software system that allows the users to model agent-based simulations using a well-know spreadsheet interface resembling popular spreadsheet software systems such as Microsoft Excel. This allows for the modeling of agent-based simulations without prior programming knowledge, only using a simple spreadsheet interface controlled by click & drag interactions.
 
 This user study aims to find gaps and limitations of current spreadsheet software (Microsoft Excel) in order to build the most suitable & usable software system interface for this problem.
@@ -48,3 +51,11 @@ This task introduces a new speed attribute to each agent, which is similarly to 
 In the final task, we want all agents to stop moving if any agent wins the race. So if any of the agents reaches the finish line, we want all the other agents to stop and instead of displaying their new position, we display STOP.
 
 This task represents a realistic race where we only care about the winner (the first one to cross the finish line) and we do not care about the order of the remaining agents, which lost the race.
+
+## Next Steps
+When you are finished with the tasks, please send us an e-mail with your solution (Excel `.xlsx` file). We will contact you shortly about the next steps, such as invite you to a short Zoom call where we will discuss your approach to the solution.
+
+## Contact Us
+In case of any questions or unclarities regarding the tasks or the study in general, do not hesitate to contact us at our e-mail addresses:
+- Tomáš Boďa - [tominoboda@gmail.com](mailto:tominoboda@gmail.com).
+- Tomáš Petříček - [tomas@tomasp.net](mailto:tomas@tomasp.net)
