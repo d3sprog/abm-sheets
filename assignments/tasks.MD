@@ -24,7 +24,7 @@ The main idea of agent-based modeling is to describe the system from the perspec
 ## Assignment
 The assignment is to model a very simple agent-based simulation in Microsoft Excel. The simulation represents a race, where individual agents represent runners that run from the starting point to the finish line. These agents move with a certain speed and the first agent to cross the finish line wins. This assignment comes in four steps, each gaining more difficulty.
 
-> [!WARNING]
+> [!NOTE]
 > We would like to ask you to birefly document your thinking process within these assignments, most importantly what was challenging or too difficult to simulate. These information help us discover the gaps and limitations of the current spreadsheet software that is essential for this research project.
 
 ### Part 1 (Tireless runners)
