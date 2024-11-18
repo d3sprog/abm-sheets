@@ -17,7 +17,7 @@ The assignment is to model a very simple agent-based simulation in Microsoft Exc
 > We ask to spend maximum of 90 minutes on these tasks. If you cannot come up with a solution within this time slot, please document what challenges you faced and on which problem you stumbled.
 
 ### Part 1 (Tireless runners)
-In the first part, we will simulate agents that move in a one-dimensional space. There is no finish line, the agents can move indefinitely. Each agent starts at point 0 and is assigned a random speed between `1` and `5`. This speed is constant throughout the race. In each new time step, each agent's new position is calculated as its previous position incremented by its speed.
+In the first part, we will simulate agents that move in a one-dimensional space. There is no finish line, the agents can move indefinitely. Each agent starts at point `0` and is assigned a random speed between `1` and `5`. This speed is constant throughout the race. In each new time step, each agent's new position is calculated as its previous position incremented by its speed.
 
 Formula for random initial speed: \
 `=RANDBETWEEN(1;5)`
