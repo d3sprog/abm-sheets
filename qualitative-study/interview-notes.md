@@ -1,5 +1,16 @@
 # Interview Notes
 
+## Paul Harrington
+February 6, 2025
+
+*"One of the benefits of Excel, as you probably know, is just the whip attitude of it, you know, this kind of interactive, reactive programming environment. The ability to mix data and formulas/programming in the same environment is extremely attractive."*
+ 
+Paul Harrington
+
+- defining constants in cells
+- creating named variables (symbolic domain)
+- using lambdas for everything
+
 ## James Geddes
 December 12, 2024
 
