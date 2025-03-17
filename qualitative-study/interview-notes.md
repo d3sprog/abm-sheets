@@ -1,5 +1,38 @@
 # Interview Notes
 
+## David Kroupa
+March 16, 2025
+
+- created separate tables for individual agent attributes
+- used the `MAX` Excel function for part 4
+- after reading part 2, they said *"This is going to be painful."*
+
+### Part 1
+![i4p1](./screenshots/interview-04-task-01.png)
+
+### Part 3
+![i4p3](./screenshots/interview-04-task-03.png)
+
+### Part 4
+![i4p4](./screenshots/interview-04-task-04.png)
+
+## Michael Sevcik
+March 13, 2025
+
+*"I would much rather do this in Python."*
+
+### Part 1
+![i3p1](./screenshots/interview-03-task-01.png)
+
+### Part 2
+![i3p2](./screenshots/interview-03-task-02.png)
+
+### Part 3
+![i3p3](./screenshots/interview-03-task-03.png)
+
+### Part 4
+![i3p4](./screenshots/interview-03-task-04.png)
+
 ## Paul Harrington
 February 6, 2025
 
